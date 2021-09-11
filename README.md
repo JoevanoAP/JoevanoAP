@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/JoevanoAP](https://www.github.com/JoevanoAP)
+- 👨‍💻 All of my projects are available at [Github](https://www.github.com/JoevanoAP)
 
 - 💬 Ask me about **HTML, CSS, PHP, Javascript**
 
