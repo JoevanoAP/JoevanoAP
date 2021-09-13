@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, PHP, Javascript**
 
-- 📫 How to reach me **[Gmail](usvaino@gmail.com)**
+- 📫 How to reach me **usvaino@gmail.com**
 
 - ⚡ Fun fact **I like to watch some Anime**
 
