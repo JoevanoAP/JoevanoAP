@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Beginner Web Developer from Indonesia</h3>
 
 
-- 🔭 I’m currently working on [Web Transaksi](https://github.com/JoevanoAP/web_transaksi)
+
 
 - 🌱 I’m currently learning **React**
 
