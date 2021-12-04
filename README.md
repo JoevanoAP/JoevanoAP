@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Joevano</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoevanoAP)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joevanoap)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
