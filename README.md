@@ -13,7 +13,7 @@
 
 ## Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoevanoAP&show_icons=true&theme=tokyonight" />
-<img align="right" width="43%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoevanoAP&layout=compact" />
+<img align="right" width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoevanoAP&layout=compact" />
 
  
 
