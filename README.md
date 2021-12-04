@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joevano</h1>
-<h3 align="center">I'm a Beginner Web Developer from Indonesia</h3>
+<h1>Hi 👋, I'm Joevano</h1>
 
 
 <h2 align="left">Languages and Tools:</h2>
